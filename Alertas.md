@@ -1,4 +1,5 @@
 Inicio
     Vamos a alertarte
-    vamos a crear un conflicto
+    Aqui no deberia de haber un conflicto
+    vamos a crear un conflicto (pero esta arreglado)
 Fin
